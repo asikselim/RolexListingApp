@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">H5180054_SelimAsikFinal</string>
+    <string name="lutfen_bekleyiniz"> Sayfa Yükleniyor...Lütfen Bekleyiniz.</string>
+    <string name="tiklanan_adi">Tıklanan Saat Adı:</string>
+    <string name="cıkmak_istediginize_eminmisiniz">Çıkmak İstediğnize Emin Misiniz?</string>
+    <string name="uygulamadan_cıkmak_uzersiniz">Uygulamadan Çıkmak Üzeresiniz</string>
+    <string name="cikis">Cıkış</string>
+    <string name="vazgec">Vazgeç</string>
+    <string name="internet_baglantiniz_yok">İnternet Bağlantınız Yok!</string>
+    <string name="uygulamayi_kullanmak_icin_internet_gereklidir">Uygulamayı kullanmak için internet gereklidir.</string>
+    <string name="ayarlara_git">Ayarlara git</string>
+    <string name="kapat">Kapat</string>
+    <string name="ekranBilgisi">MainActivity</string>
+    <string name="ekranBilgisi2">ListeActivity</string>
+
+</resources>

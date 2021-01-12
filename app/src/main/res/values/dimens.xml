@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="ikiyuzdp">200dp</dimen>
+    <dimen name="sifirdp">0dp</dimen>
+    <dimen name="ondp">10dp</dimen>
+    <dimen name="otuzsp">30sp</dimen>
+    <dimen name="onsekizsp">18sp</dimen>
+    <dimen name="dortdp">4dp</dimen>
+    <dimen name="kırkdp">40dp</dimen>
+    <dimen name="yuzdp">100dp</dimen>
+    <dimen name="onaltıdp">16dp</dimen>
+    <dimen name="onikidp">12dp</dimen>
+
+</resources>

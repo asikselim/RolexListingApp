@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.SaatDetayActivity">
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/darker_gray">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+
+            <ImageView
+                android:id="@+id/imgKapak"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/ikiyuzdp"
+                android:scaleType="fitXY"
+                app:srcCompat="@drawable/rolexamblem" />
+
+            <TextView
+                android:id="@+id/txtBaslik"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/ondp"
+                android:text="Başlık"
+                android:textColor="@color/colorRolexGold"
+                android:textSize="@dimen/otuzsp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/txtModel_detay"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/ondp"
+                android:text="model"
+                android:textSize="@dimen/onsekizsp" />
+
+            <TextView
+                android:id="@+id/txtyil_detay"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/ondp"
+                android:text="yil"
+                android:textSize="@dimen/onsekizsp" />
+
+            <TextView
+                android:id="@+id/txtKasaCapi_detay"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/ondp"
+                android:text="kasacapi"
+                android:textSize="@dimen/onsekizsp" />
+
+            <TextView
+                android:id="@+id/txtCamTipi_detay"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/ondp"
+                android:text="cam tipi"
+                android:textSize="@dimen/onsekizsp" />
+
+            <TextView
+                android:id="@+id/txtMekanizma_detay"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/ondp"
+                android:text="mekanizma"
+                android:textSize="@dimen/onsekizsp" />
+
+            <TextView
+                android:id="@+id/txtKordonMalzemesi_detay"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/ondp"
+                android:text="kordon malzemesi"
+                android:textSize="@dimen/onsekizsp" />
+
+            <TextView
+                android:id="@+id/txtSaatTarzi_detay"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/ondp"
+                android:text="saat tarzı"
+                android:textSize="@dimen/onsekizsp" />
+
+            <TextView
+                android:id="@+id/txtGreyMarketFiyat_detay"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/ondp"
+                android:text="grey market fiyatı"
+                android:textSize="@dimen/onsekizsp" />
+
+            <TextView
+                android:id="@+id/txtsaatDetay"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/ondp"
+                android:text="Saat'in Detayı"
+                android:textColor="@color/cardview_dark_background"
+                android:textSize="@dimen/onsekizsp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+
+    </androidx.core.widget.NestedScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>
