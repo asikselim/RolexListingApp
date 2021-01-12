@@ -11,7 +11,7 @@
 
 The main scope of this project is using Rxjava and Retrofit technologies and fundamentals of JSON in Android project.
 
-<h2 id="Screens">Outputs</h2>
+ <h2 id="Screens">Screens</h2>
 <p>
   <img height= "300"  src="https://github.com/SelimAsik34/h5180054selimasik/blob/main/extra_files/SplashScreen.png" alt="SS4" />
   <img height= "300"  src="https://github.com/SelimAsik34/h5180054selimasik/blob/main/extra_files/InternetDialog.png" alt="SS4"/>
