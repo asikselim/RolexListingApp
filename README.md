@@ -1,7 +1,7 @@
 #  [Rolex Watches Listing App]
 
 <p align="center">
-<img src="https://github.com/SelimAsik34/h5180054selimasik/blob/main/extra_files/rolex_banner.jpg"/>
+<img src="https://github.com/SelimAsik34/h5180054selimasik/blob/main/extra_files/rolex_clips.jpg"/>
 </p>
 
 # Rolex Watch Listing App
@@ -25,11 +25,12 @@ The main aim of project is using API's in android project listing some kind of c
 ![Architecture](https://github.com/SelimAsik34/h5180054selimasik/blob/main/extra_files/Model%20yapısı.png)
 
 ## Libraries and tools 🛠
+<li><a href="https://github.com/square/okhttp">OkHttp</a></li>
+<li><a href="https://github.com/bumptech/glide">Glide</a></li>
 <li><a href="https://developer.android.com/jetpack/androidx/releases/recyclerview?hl=en">RecyclerView</a></li>
 <li><a href="https://github.com/ReactiveX/RxJava">RxJava</a></li>
 <li><a href="https://github.com/square/retrofit">Retrofit</a></li>
-<li><a href="https://github.com/square/okhttp">OkHttp</a></li>
-<li><a href="https://github.com/bumptech/glide">Glide</a></li>
+
 
 
 License
