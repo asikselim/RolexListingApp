@@ -13,11 +13,11 @@ The main aim of project is using API's in android project listing some kind of c
 
 <h2 id="Outputs">Outputs</h2>
 <p>
-  <img height= "450"  src="https://github.com/SelimAsik34/h5180054selimasik/blob/main/extra_files/SplashScreen.png" alt="SS4" />
-  <img height= "450"  src="https://github.com/SelimAsik34/h5180054selimasik/blob/main/extra_files/InternetDialog.png" alt="SS4"/>
-  <img height= "450"  src="https://github.com/SelimAsik34/h5180054selimasik/blob/main/extra_files/AnaEkran.png" alt="SS4" />
-  <img height= "450"  src="https://github.com/SelimAsik34/h5180054selimasik/blob/main/extra_files/ÇıkışDialog.png" alt="SS4" />
-  <img height= "450"  src="https://github.com/SelimAsik34/h5180054selimasik/blob/main/extra_files/DetayEkranı.png" alt="SS5" />
+  <img height= "400"  src="https://github.com/SelimAsik34/h5180054selimasik/blob/main/extra_files/SplashScreen.png" alt="SS4" />
+  <img height= "400"  src="https://github.com/SelimAsik34/h5180054selimasik/blob/main/extra_files/InternetDialog.png" alt="SS4"/>
+  <img height= "400"  src="https://github.com/SelimAsik34/h5180054selimasik/blob/main/extra_files/AnaEkran.png" alt="SS4" />
+  <img height= "400"  src="https://github.com/SelimAsik34/h5180054selimasik/blob/main/extra_files/ÇıkışDialog.png" alt="SS4" />
+  <img height= "400"  src="https://github.com/SelimAsik34/h5180054selimasik/blob/main/extra_files/DetayEkranı.png" alt="SS5" />
 
 </p>
 
