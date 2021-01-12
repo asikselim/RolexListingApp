@@ -1,4 +1,4 @@
-#  [Rolex Watches Listing App]
+#  [Rolex Watch Listing App]
 
 <p align="center">
 <img src="https://github.com/SelimAsik34/h5180054selimasik/blob/main/extra_files/rolex_clips.jpg"/>
