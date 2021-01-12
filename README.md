@@ -30,6 +30,7 @@ The main aim of project is using API's in android project listing some kind of c
 <li><a href="https://developer.android.com/jetpack/androidx/releases/recyclerview?hl=en">RecyclerView</a></li>
 <li><a href="https://github.com/ReactiveX/RxJava">RxJava</a></li>
 <li><a href="https://github.com/square/retrofit">Retrofit</a></li>
+<li><a href="https://developer.android.com/jetpack/androidx/releases/cardview">CardView</a></li>
 
 
 
