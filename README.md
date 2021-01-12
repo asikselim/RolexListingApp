@@ -7,9 +7,9 @@
 # Rolex Watch Listing App
 ![appicon](https://github.com/SelimAsik34/h5180054selimasik/blob/main/extra_files/ic_launcher.png)
 
-Computer Component App is basic listing app which include computer component.
+ Rolex Watches Listing App is sort of listing app that list specific brand which is Rolex watches.
 
-The main aim of project is using API's in android project listing some kind of computer component.
+The main scope of this project is using Rxjava and Retrofit technologies and fundamentals of JSON in Android project.
 
 <h2 id="Outputs">Outputs</h2>
 <p>
