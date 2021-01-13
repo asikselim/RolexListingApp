@@ -5,7 +5,7 @@
 </p>
 
 # Rolex Watch Listing App
-![appicon](https://github.com/SelimAsik34/h5180054selimasik/blob/main/extra_files/ic_launcher.png)
+![appicon](https://github.com/SelimAsik34/RolexListingApp/blob/main/Screens/ic_launcher.png)
 
  Rolex Watches Listing App is sort of listing app that list specific brand which is Rolex watches.
 
