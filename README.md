@@ -1,7 +1,7 @@
 #  [Rolex Watch Listing App]
 
 <p align="center">
-<img src="https://github.com/SelimAsik34/h5180054selimasik/blob/main/extra_files/rolex_clips.jpg"/>
+<img src="https://github.com/SelimAsik34/RolexListingApp/blob/main/Screens/rolex_clips.jpg"/>
 </p>
 
 # Rolex Watch Listing App
@@ -13,16 +13,16 @@ The main scope of this project is using Rxjava and Retrofit technologies and fun
 
  <h2 id="Screens">Screens</h2>
 <p>
-  <img height= "300"  src="https://github.com/SelimAsik34/h5180054selimasik/blob/main/extra_files/SplashScreen.png" alt="SS4" />
-  <img height= "300"  src="https://github.com/SelimAsik34/h5180054selimasik/blob/main/extra_files/InternetDialog.png" alt="SS4"/>
-  <img height= "300"  src="https://github.com/SelimAsik34/h5180054selimasik/blob/main/extra_files/AnaEkran.png" alt="SS4" />
-  <img height= "300"  src="https://github.com/SelimAsik34/h5180054selimasik/blob/main/extra_files/ÇıkışDialog.png" alt="SS4" />
-  <img height= "300"  src="https://github.com/SelimAsik34/h5180054selimasik/blob/main/extra_files/DetayEkranı.png" alt="SS5" />
+  <img height= "300"  src="https://github.com/SelimAsik34/RolexListingApp/blob/main/Screens/SplashScreen.png" alt="SS4" />
+  <img height= "300"  src="https://github.com/SelimAsik34/RolexListingApp/blob/main/Screens/InternetDialog.png" alt="SS4"/>
+  <img height= "300"  src="https://github.com/SelimAsik34/RolexListingApp/blob/main/Screens/AnaEkran.png" alt="SS4" />
+  <img height= "300"  src="https://github.com/SelimAsik34/RolexListingApp/blob/main/Screens/ÇıkışDialog.png" alt="SS4" />
+  <img height= "300"  src="https://github.com/SelimAsik34/RolexListingApp/blob/main/Screens/DetayEkranı.png" alt="SS5" />
 
 </p>
 
 ## Clean Simple Architecture
-![Architecture](https://github.com/SelimAsik34/h5180054selimasik/blob/main/extra_files/Model%20yapısı.png)
+![Architecture](https://github.com/SelimAsik34/RolexListingApp/blob/main/Screens/model_yapisi.png)
 
 ## Libraries and tools 🛠
 <li><a href="https://github.com/square/okhttp">OkHttp</a></li>
